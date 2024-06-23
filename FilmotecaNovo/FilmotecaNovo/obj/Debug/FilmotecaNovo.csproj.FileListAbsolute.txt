@@ -1,0 +1,12 @@
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.csproj.AssemblyReference.cache
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.Filmoteca.resources
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.Cadastro.resources
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.Registro.resources
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.Properties.Resources.resources
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.csproj.GenerateResource.cache
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.csproj.CoreCompileInputs.cache
+C:\FilmotecaNovo\FilmotecaNovo\bin\Debug\FilmotecaNovo.exe.config
+C:\FilmotecaNovo\FilmotecaNovo\bin\Debug\FilmotecaNovo.exe
+C:\FilmotecaNovo\FilmotecaNovo\bin\Debug\FilmotecaNovo.pdb
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.exe
+C:\FilmotecaNovo\FilmotecaNovo\obj\Debug\FilmotecaNovo.pdb
